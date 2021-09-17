@@ -1,6 +1,8 @@
 import styled from "styled-components";
 const StyledCabe = styled.div`
 
+
+
 .left-box {
     display: flex;
     flex-direction: column;
@@ -9,6 +11,8 @@ const StyledCabe = styled.div`
     
     min-height: 100vh;
     padding-bottom: 0em;
+    position: sticky;
+    top: 0px;
 }
 
 .header-left-box {

@@ -340,6 +340,16 @@ th {
     width: .1em;
 }
 
+.a > button {
+    visibility: hidden;
+}
+
+tr:hover {
+    .a > button {
+        visibility: visible;
+    }
+}
+
 button {
     cursor: pointer;
 }
