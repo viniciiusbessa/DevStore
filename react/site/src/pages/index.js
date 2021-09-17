@@ -109,15 +109,6 @@ export default function IndexPrincipal() {
                     </thead>
             
                     <tbody>
-                        <tr >
-                            <td> 1 </td>
-                            <td> Fulao da Silva Sauro</td>
-                            <td> 15 </td>
-                            <td> InfoX </td>
-                            <td > Informática </td>
-                            <td> <button> <img src="/images/edit.svg" alt="" /> </button> </td>
-                            <td class = "aa">   <button> <img src="/images/trash-2.svg" alt="" /> </button> </td>
-                        </tr>
 
                         
                     
