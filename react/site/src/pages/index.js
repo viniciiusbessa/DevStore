@@ -241,7 +241,7 @@ export default function IndexPrincipal() {
                         
 
                         <tr className={i % 2 == 0 ? "linha-alternada" : ' '}>
-                        <td> {item.img_produto} </td>
+                        <td className= "imagem-tabela"> <img src= {item.img_produto}/> </td>
                         <td> {item.id_produto} </td>
                             <td> {item.nm_produto}</td>
                             <td> {item.ds_categoria} </td>
